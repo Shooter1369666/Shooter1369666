@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Shooter1369666
+- 👀 I’m interested in gaming and I love PUBG and Roblox
+- 🌱 I’m currently learning Lua so that I can easily create games on Roblox
+- 💞️ I’m looking to collaborate on game developement like PUBG
